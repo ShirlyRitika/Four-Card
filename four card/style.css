@@ -1,0 +1,75 @@
+body{
+    background-color: whitesmoke;
+    text-align: center;
+    font-family: serif;
+}
+.overall{
+    height: fit-content;
+    width: max-content;
+    margin: auto;
+    background-color: aliceblue;
+}
+image{
+    height: 20px;
+    width: 50px;
+    justify-content: end;
+}
+
+.three{
+        height: max-content;
+        width: 320px;
+        align-items: flex-start;
+        background-color: rgb(252, 244, 244);
+        color: gray;
+        text-align: start;
+        border: 4px solid white;
+        margin: 20px;
+        border-top-color: hsl(212, 86%, 64%);
+        border-radius: 10px;
+}
+.super{
+    align-items: flex-end;
+    justify-content: end;
+}
+.four{
+    height: max-content;
+    width: 320px;
+    align-items: flex-start;
+    background-color: whitesmoke;
+    color: gray;
+    text-align: start;
+    border: 4px solid white;
+    margin: 20px;
+    border-top-color: hsl(0, 78%, 62%);
+    border-radius: 10px;
+}
+
+.five{
+    height: max-content;
+    width: 320px;
+    align-items: flex-start;
+    background-color: whitesmoke;
+    color: gray;
+    text-align: start;
+    border: 4px solid white;
+    margin: 20px;
+    border-top-color: hsl(34, 97%, 64%);
+    border-radius: 10px;
+}
+
+.six{
+    height: max-content;
+    width: 320px;
+    align-items: flex-start;
+    background-color: whitesmoke;
+    color: gray;
+    text-align: start;
+    border: 4px solid white;
+    margin: 20px;
+    border-top-color: hsl(212, 86%, 64%);
+    border-radius: 10px;
+}
+
+img{
+    margin-left: 250px;
+}
